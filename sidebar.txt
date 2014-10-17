@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nhr:home|Door43 (nhr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nhr|d43-nhr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nhr/archive/master.zip|d43-nhr.zip]]
+
+**Recent Changes**
+{{changes>ns = nhr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nhr|Ethnologue data]]
+
